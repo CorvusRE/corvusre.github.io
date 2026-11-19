@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-BlIEEezU.js";var n=e(t());function r(){return(0,n.useEffect)(()=>{window.location.replace(`/auth/${window.location.hash}`)},[]),null}export{r as component};

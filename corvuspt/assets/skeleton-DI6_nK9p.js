@@ -1,0 +1,1 @@
+import{r as e}from"./button-DKmSe-iH.js";import{t}from"./jsx-runtime-BB9-612F.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`div`,{className:e(`animate-pulse rounded-md bg-primary/10`,t),...r})}export{r as t};

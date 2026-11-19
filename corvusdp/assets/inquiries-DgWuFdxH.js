@@ -1,0 +1,1 @@
+import{t as e}from"./edge-functions-DNb-IMdq.js";async function t(t){await e(`send-inquiry-email`,t)}async function n(e){try{await t(e)}catch(e){console.error(`Inquiry notification failed (non-blocking):`,e)}}export{t as n,n as t};

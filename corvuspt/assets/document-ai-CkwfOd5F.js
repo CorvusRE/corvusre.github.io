@@ -1,0 +1,1 @@
+import{t as e}from"./edge-functions-DaGsFOvp.js";async function t(t){return e(`classify-document`,t)}async function n(t){return e(`validate-document`,t)}async function r(t){return e(`ask-about-document`,t)}export{t as n,n as r,r as t};

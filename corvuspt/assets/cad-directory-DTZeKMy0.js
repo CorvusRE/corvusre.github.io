@@ -1,0 +1,1 @@
+import{r as e,t}from"./tax-rates-official-CKC-UqTv.js";var n=e;function r(e){let r=t(e);if(!r)return null;for(let[e,t]of Object.entries(n.counties))if(t.county.toLowerCase()===r)return{countyCode:e,...t,sourceUrl:`${n.source}${t.slug}.php`,builtAt:n.builtAt};return null}export{r as t};

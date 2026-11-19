@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./useNavigate-seP4-9a-.js";import{t as n}from"./react-BlIEEezU.js";import{g as r}from"./index-DsoDOinq.js";var i=e(n());function a(){let e=t(),{ref:n}=r.useSearch();return(0,i.useEffect)(()=>{e({to:`/sign-in`,search:{mode:`signup`,ref:n},replace:!0})},[n,e]),null}export{a as component};

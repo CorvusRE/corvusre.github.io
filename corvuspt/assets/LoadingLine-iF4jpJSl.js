@@ -1,0 +1,1 @@
+import{t as e}from"./loader-circle-C6FRVOko.js";import{t}from"./jsx-runtime-BB9-612F.js";var n=t();function r({text:t,className:r}){return(0,n.jsxs)(`span`,{className:`inline-flex items-center gap-2 text-muted-foreground ${r??``}`,children:[(0,n.jsx)(e,{className:`h-4 w-4 shrink-0 animate-spin`,"aria-hidden":`true`}),(0,n.jsx)(`span`,{children:t})]})}export{r as t};

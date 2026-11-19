@@ -1,0 +1,1 @@
+var e=/^(\d{4})-(\d{2})-(\d{2})$/;function t(t){let n=e.exec(t.trim());return n?new Date(Number(n[1]),Number(n[2])-1,Number(n[3])):new Date(t)}function n(n,r=new Date){let i=t(n);return e.test(n.trim())?new Date(i.getFullYear(),i.getMonth(),i.getDate()+1).getTime()<=r.getTime():i.getTime()<r.getTime()}export{t as n,n as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{t}from"./react-BZk3575t.js";var n=e(t());function r(){return(0,n.useEffect)(()=>{window.location.replace(`/auth/?screen=forgot`)},[]),null}export{r as component};

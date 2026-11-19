@@ -1,0 +1,1 @@
+function e(e,t){return e instanceof Error||e&&typeof e==`object`&&`message`in e&&typeof e.message==`string`?e.message:t}export{e as t};

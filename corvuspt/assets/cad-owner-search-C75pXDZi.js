@@ -1,0 +1,1 @@
+import{t as e}from"./edge-functions-DaGsFOvp.js";async function t(t){return e(`cad-owner-search`,{ownerName:t})}export{t};

@@ -1,0 +1,1 @@
+var e=[`active`,`trialing`,`past_due`],t=[`active`,`trialing`,`past_due`,`incomplete`,`unpaid`];function n(t){return!!t&&e.includes(t)}function r(e){return!!e&&t.includes(e)}export{n,r as t};

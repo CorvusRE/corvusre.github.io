@@ -1,0 +1,1 @@
+function e(e){let t=e.lastIndexOf(`.`),n=t>0?e.slice(0,t):e,r=t>0?e.slice(t+1):``,i=e=>e.normalize(`NFKD`).replace(/[̀-ͯ]/g,``).replace(/[^A-Za-z0-9._-]+/g,`-`).replace(/-+/g,`-`).replace(/^[-.]+|[-.]+$/g,``),a=i(n).slice(0,120)||`file`,o=i(r).slice(0,10);return o?`${a}.${o}`:a}export{e as t};

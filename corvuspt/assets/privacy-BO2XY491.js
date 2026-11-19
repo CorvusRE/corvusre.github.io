@@ -1,0 +1,1 @@
+import{t as e}from"./LegalDocument-fBNB2BW9.js";import{a as t,o as n}from"./legal-dN10Dqzv.js";import{t as r}from"./jsx-runtime-BB9-612F.js";var i=r();function a(){return(0,i.jsx)(e,{title:`Privacy Policy`,version:n,updated:n,intro:`This Policy explains what information CorvusPT collects, how it is used, and how it is shared.`,sections:t})}export{a as component};
